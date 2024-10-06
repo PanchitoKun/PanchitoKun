@@ -15,8 +15,7 @@ Francisco</a></h1>
 
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
+- 📝 I am always learning new programming technologies or libraries.
 - 💬 Ask me about **Reactjs & React-Native**
 
 - 📫 How to reach me **saurabhchavan052@gmail.com**
