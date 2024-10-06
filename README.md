@@ -20,11 +20,16 @@ Francisco</a></h1>
 - 🌱 I’m currently estoy aprendiendo JS y python + ingles nivel avanzado + C#
 
 - 📝 I am always learning new programming technologies or libraries.
-- 💬 Ask me about **If I can create and web page** <a href="https://docs.google.com/document/d/1TN4UM0xWnrAX_6n129l3YDlmLrKh9JLO/edit?usp=sharing&ouid=102335120164458379400&rtpof=true&sd=true"></a>
+- 💬 Ask me about **If I can create and web page** 
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1TN4UM0xWnrAX_6n129l3YDlmLrKh9JLO/edit?usp=sharing&ouid=102335120164458379400&rtpof=true&sd=true" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<a href="mailto:practicantedelprogramscion1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+</a>
+
+
 
 
 
